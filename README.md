@@ -6,3 +6,5 @@ First version (v1) is a working board with user input, and alternating markings 
 
 Next version will include some additional functionality.  This will hopefully include a board evaluator at the end of each play
 to determine if a winner has emerged or if the board has been filled without a winner.
+
+V2 uploaded.  Includes board evaluator and also ends game if board is filled without a winner.
